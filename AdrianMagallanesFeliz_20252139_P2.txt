@@ -1,0 +1,11 @@
+SEGURIDAD DE REDES - Segundo Parcial
+Nombre: Adrian Magallanes Feliz
+Matricula: 2025-2139
+
+INFRAESTRUCTURA 1: Laboratorio individual de hardening basado en CIS en GNS3 (router Cisco, switch Cisco, firewall FortiGate y PC Ubuntu)
+
+Repositorio GitHub:
+https://github.com/adrianmgallaness-hash/Seguridad-de-Redes-Hardening-CIS
+
+Video demostrativo en YouTube:
+https://youtu.be/JYM2anQrunU

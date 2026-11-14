@@ -1,4 +1,4 @@
-**Video demostrativo individual:** pendiente de grabación y publicación en YouTube. El enlace se colocará aquí, antes del título, cuando exista.
+**Video demostrativo individual:** [ver en YouTube](https://youtu.be/JYM2anQrunU).
 
 # Laboratorio individual de hardening basado en CIS
 
@@ -37,5 +37,4 @@ Las capturas publicadas se encuentran en [evidencias](evidencias/). La [matriz d
 
 ## Estado de entrega
 
-Las pruebas de red y la ejecución del auditor están realizadas. Los informes del directorio `reportes/` son transcripciones de la salida que mostró el estudiante; los originales permanecen en Ubuntu. La copia del script en este repositorio reproduce el procedimiento y debe ejecutarse nuevamente desde Ubuntu para validar esta versión publicada. Las configuraciones de Cisco excluyen líneas `secret` y la de FortiGate contiene extractos de las secciones pertinentes. Falta cambiar las contraseñas temporales divulgadas durante la configuración y grabar el video individual con fecha, hora, rostro y voz. El TXT final incluirá los enlaces de GitHub y YouTube con el formato de nombre exigido.
-
+Las pruebas de red y la ejecución del auditor están realizadas. Los informes del directorio `reportes/` son transcripciones de la salida que mostró el estudiante; los originales permanecen en Ubuntu. La copia del script en este repositorio reproduce el procedimiento y debe ejecutarse nuevamente desde Ubuntu para validar esta versión publicada. Las configuraciones de Cisco excluyen líneas `secret` y la de FortiGate contiene extractos de las secciones pertinentes. Las contraseñas temporales divulgadas durante la configuración deben cambiarse antes de la entrega final. El TXT incluye los enlaces de GitHub y YouTube con el formato de nombre exigido.

@@ -29,5 +29,3 @@ Modo: Solo informe; sin cambios
 
 Revision parcial de controles seleccionados; no es certificacion CIS.
 El informe no contiene contrasenas ni running-configs.
-
-_Transcripcion del resultado mostrado por el estudiante en la conversacion; el archivo original permanece en Ubuntu._
